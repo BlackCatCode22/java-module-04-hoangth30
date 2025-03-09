@@ -1,0 +1,35 @@
+Zoo Animals Report
+==================
+
+Species: Hyena
+Total Count: 4
+Animals:
+ - Name: Shenzi, Age: 4
+ - Name: Banzai, Age: 12
+ - Name: Ed, Age: 4
+ - Name: Zig, Age: 8
+
+Species: Bear
+Total Count: 4
+Animals:
+ - Name: Yogi, Age: 7
+ - Name: Smokey, Age: 25
+ - Name: Paddington, Age: 4
+ - Name: Lippy, Age: 4
+
+Species: Tiger
+Total Count: 4
+Animals:
+ - Name: Tony, Age: 2
+ - Name: Tigger, Age: 4
+ - Name: Amber, Age: 18
+ - Name: Cosimia, Age: 3
+
+Species: Lion
+Total Count: 4
+Animals:
+ - Name: Scar, Age: 6
+ - Name: Mufasa, Age: 12
+ - Name: Simba, Age: 22
+ - Name: Kiara, Age: 4
+
